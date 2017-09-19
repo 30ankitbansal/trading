@@ -1,0 +1,8 @@
+autobahn==17.9.2
+certifi==2017.7.27.1
+chardet==3.0.4
+idna==2.6
+requests==2.18.4
+six==1.11.0
+txaio==2.8.2
+urllib3==1.22
